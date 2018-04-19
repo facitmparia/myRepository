@@ -7,6 +7,6 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/
 
-concatConfig:
+concat-config:
    lucky-world : ciao
    lucky-name : dario
